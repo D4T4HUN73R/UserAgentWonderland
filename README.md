@@ -84,7 +84,7 @@ _And much more! 🎉_
 To get started with the UserAgent Repository, you can clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/useragent-repo.git
+git clone https://github.com/D4T4HUN73R/UserAgentWonderland.git
 ```
 
 Once cloned, you can browse through the directories corresponding to different device types and view the user agents in plain text format.
