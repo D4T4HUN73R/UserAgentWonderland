@@ -75,10 +75,12 @@ This repository aims to provide a comprehensive collection of user-agents sorted
 _And much more! 🎉_
 
 ## Features 🌟
-- Extensive user-agent lists by category
+- User-agent lists by category
 - Easy access and integration for developers
+- In two common file formats: .txt and .json
 - Clear formatting for quick scanning
-- Markdown-friendly structure for documentation
+
+_Note: The lists do not contain unique user agents and also have some few duplicates. In addition, the different file formats do not contain the same user agents._
 
 ## Getting Started 🏁
 To get started with the UserAgent Repository, you can clone this repository to your local machine:
