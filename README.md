@@ -60,7 +60,7 @@ This repository aims to provide a comprehensive collection of user-agents sorted
 
 `Mozilla/5.0 (compatible; Ubuntu; Linux; x86_64; rv:20.04) Gecko/20100101 Ubuntu/20.04`
   
-### Tower PCs 🖥️💻
+### Personal Computers a.k.a. PCs 🖥️💻
 
 `Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; AS; rv:11.0) like Gecko`
   
