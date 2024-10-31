@@ -80,6 +80,25 @@ _And much more! 🎉_
 - In two common file formats: .txt and .json
 - Clear formatting for quick scanning
 
+current lists
+
+- **mobile devices**: 
+  - **phones**: ✅ 100
+  - **tablets**: ✅ 100
+  - ...
+- **IoT**:
+  - **general list**: ✅ 100
+  - **smart fridges**: ❌
+  - **webcams**: ❌
+  - **smart watches**: ❌
+  - **smart light bulbs**: ❌
+  - ...
+- **Personal Computers a.k.a. PCs **: ✅ 100
+  - ...
+- **Servers**: ❌
+  - ... 
+- ...
+
 _Note: The lists do not contain unique user agents and also have some few duplicates. In addition, the different file formats do not contain the same user agents._
 
 ## Getting Started 🏁
